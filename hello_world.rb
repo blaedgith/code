@@ -1,3 +1,3 @@
-x = "Hello world"
+x = "Hello world!"
 
 puts x
